@@ -1,2 +1,2 @@
-# js.repo
+# js-functions-lab
 Functions exercise 
